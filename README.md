@@ -2,7 +2,7 @@
 
 First App Like Reddit made by KS
 
-*** GEMS ***
+***GEMS***
 
 gem 'foundation-rails'
 gem 'simple_form'
