@@ -1,5 +1,5 @@
 module ApplicationHelper
-	def type(tipo)
+	def tipo(type)
 		case type
 		when :success then "success"
 		when :error   then "warning"
